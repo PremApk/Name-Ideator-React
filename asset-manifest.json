@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Name-Ideator-React/static/css/main.d7d1c80f.chunk.css",
+    "main.js": "/Name-Ideator-React/static/js/main.10d03d6c.chunk.js",
+    "main.js.map": "/Name-Ideator-React/static/js/main.10d03d6c.chunk.js.map",
+    "runtime-main.js": "/Name-Ideator-React/static/js/runtime-main.6dc4b297.js",
+    "runtime-main.js.map": "/Name-Ideator-React/static/js/runtime-main.6dc4b297.js.map",
+    "static/js/2.223275e7.chunk.js": "/Name-Ideator-React/static/js/2.223275e7.chunk.js",
+    "static/js/2.223275e7.chunk.js.map": "/Name-Ideator-React/static/js/2.223275e7.chunk.js.map",
+    "index.html": "/Name-Ideator-React/index.html",
+    "static/css/main.d7d1c80f.chunk.css.map": "/Name-Ideator-React/static/css/main.d7d1c80f.chunk.css.map",
+    "static/js/2.223275e7.chunk.js.LICENSE.txt": "/Name-Ideator-React/static/js/2.223275e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dc4b297.js",
+    "static/js/2.223275e7.chunk.js",
+    "static/css/main.d7d1c80f.chunk.css",
+    "static/js/main.10d03d6c.chunk.js"
+  ]
+}
