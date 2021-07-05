@@ -2,7 +2,7 @@
   "name": "name-it",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://PremApk.github.io/Unique-Name-Generator-React/",
+  "homepage": "http://PremApk.github.io/Name-Ideator-React/",
   "dependencies": {
     "@rstacruz/startup-name-generator": "0.3.0",
     "@testing-library/jest-dom": "^5.14.1",
