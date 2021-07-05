@@ -1,2 +1,2 @@
-# Name-Ideator-React
-A simple Web Application for providing naming options
+# Unique-Name-Generastor-React
+Name Picker Application developed using React.js
